@@ -1,4 +1,4 @@
-package com.sdet.flipkart,Pages;
+package com.sdet.flipkart.Pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
